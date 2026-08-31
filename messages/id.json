@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "title": "PT KWD PURIFIED COLOR BOARD | Sandwich Panel & Clean Room Indonesia",
+    "description": "Produsen sandwich panel, panel EPS tahan api, bangunan prefab, struktur baja dan kontraktor clean room di Tangerang, Indonesia."
+  },
+  "nav": {
+    "about": "Tentang",
+    "products": "Produk",
+    "strength": "Keunggulan",
+    "articles": "Artikel",
+    "videos": "Video",
+    "contact": "Kontak",
+    "portfolio": "Portofolio"
+  },
+  "language": {
+    "zh": "中",
+    "en": "EN",
+    "id": "ID"
+  },
+  "hero": {
+    "eyebrow": "Tangerang · Indonesia",
+    "title": [
+      "Membangun ruang andal",
+      "untuk masa depan industri."
+    ],
+    "intro": "Panel sandwich berkinerja tinggi, struktur baja, dan rekayasa ruang bersih—dari material berkualitas hingga penyerahan proyek yang tepercaya.",
+    "ctaPrimary": "Lihat solusi",
+    "ctaSecondary": "Hubungi kami",
+    "metric1Value": "25,000",
+    "metric1Unit": "m²",
+    "metric1Label": "Area pabrik utama",
+    "metric2Value": "80",
+    "metric2Unit": "M RMB",
+    "metric2Label": "Penjualan tahunan rata-rata",
+    "metric3Value": "06",
+    "metric3Unit": "+",
+    "metric3Label": "Produk & layanan",
+    "scrollCue": "Jelajahi lebih lanjut"
+  },
+  "about": {
+    "tag": "Tentang KWD",
+    "title": "Berakar di Indonesia, didukung keahlian manufaktur Tiongkok",
+    "copy": "Didirikan pada tahun 2019, PT KWD PURIFIED COLOR BOARD berlokasi di Tangerang, Indonesia, dan merupakan anak perusahaan Suzhou Luohe Group. Kami memadukan manajemen manufaktur dan pengalaman rekayasa yang matang dengan layanan lokal untuk menghadirkan solusi selubung bangunan yang efisien, andal, dan berkelanjutan di Asia Tenggara.",
+    "point1": "Anak perusahaan Suzhou Luohe Group",
+    "point2": "Produksi dan layanan lokal di Tangerang",
+    "point3": "Didirikan pada 2019 dengan tim teknis profesional"
+  },
+  "products": {
+    "tag": "Produk & layanan",
+    "title": "Kemampuan lengkap untuk material, bangunan, dan rekayasa",
+    "subtitle": "Dari panel standar hingga proyek khusus, setiap kebutuhan dijawab dengan kualitas konsisten dan pengiriman efisien.",
+    "viewPhotos": "Lihat foto produk",
+    "detailLink": "Detail produk",
+    "products": [
+      {
+        "number": "01",
+        "name": "Panel EPS tahan api",
+        "description": "Insulasi ringan dengan performa tahan api untuk pabrik, ruang pendingin, dan gudang.",
+        "images": [
+          "/products/eps-01.jpg",
+          "/products/eps-02.jpg",
+          "/products/eps-03.jpg",
+          "/products/eps-04.jpg",
+          "/products/eps-05.jpg",
+          "/products/eps-06.jpg"
+        ],
+        "detailHref": "/eps-sandwich-panel"
+      },
+      {
+        "number": "02",
+        "name": "Panel sandwich baja warna",
+        "description": "Pilihan inti, ketebalan, dan permukaan untuk sistem dinding dan atap yang andal.",
+        "images": [
+          "/products/sandwich-01.jpg",
+          "/products/sandwich-02.jpg",
+          "/products/sandwich-03.jpg",
+          "/products/sandwich-04.jpg",
+          "/products/sandwich-05.jpg",
+          "/products/sandwich-06.jpg"
+        ],
+        "detailHref": "/sandwich-panel"
+      },
+      {
+        "number": "03",
+        "name": "Lembaran baja lapis tunggal",
+        "description": "Kuat, tahan cuaca, dan cepat dipasang untuk atap, dinding, serta kebutuhan proyek.",
+        "images": [
+          "/products/single-sheet-01.jpg"
+        ]
+      },
+      {
+        "number": "04",
+        "name": "Rumah prefab & lipat",
+        "description": "Ruang modular yang cepat diterapkan untuk kantor, hunian, dan kamp proyek.",
+        "images": [
+          "/products/prefab-01.jpg",
+          "/products/prefab-03.jpg",
+          "/products/prefab-04.jpg",
+          "/products/prefab-05.jpg"
+        ]
+      },
+      {
+        "number": "05",
+        "name": "Rekayasa struktur baja",
+        "description": "Layanan terpadu dari desain detail dan fabrikasi hingga pemasangan di lokasi.",
+        "images": [
+          "/products/steel-structure-01.jpg"
+        ]
+      },
+      {
+        "number": "06",
+        "name": "Rekayasa ruang bersih",
+        "description": "Lingkungan terkontrol dan tahan lama untuk industri pangan, elektronik, farmasi, dan lainnya.",
+        "images": [
+          "/products/cleanroom-01.jpg",
+          "/products/cleanroom-02.jpg",
+          "/products/cleanroom-03.jpg",
+          "/products/cleanroom-04.jpg"
+        ],
+        "detailHref": "/clean-room"
+      }
+    ]
+  },
+  "strength": {
+    "tag": "Keunggulan kami",
+    "title": "Skala, sistem, dan eksekusi untuk setiap pengiriman",
+    "metric1Value": "25.000",
+    "metric1Unit": "m²",
+    "metric1Label": "Area pabrik utama modern",
+    "metric2Value": "80",
+    "metric2Unit": "Jt RMB",
+    "metric2Label": "Penjualan tahunan rata-rata",
+    "metric3Value": "06",
+    "metric3Unit": "+",
+    "metric3Label": "Produk & layanan utama",
+    "quote": "Kami tidak sekadar memproduksi panel—kami menjadikan setiap bangunan lebih efisien dan andal."
+  },
+  "articles": {
+    "tag": "Artikel & wawasan",
+    "title": "Memahami material untuk keputusan proyek yang lebih baik",
+    "subtitle": "Baca penjelasan praktis KWD tentang panel sandwich, selubung bangunan, dan penerapannya.",
+    "readArticle": "Baca artikel",
+    "readTime": "{minutes} menit baca",
+    "articleMeta": "Pengetahuan material · Bahasa Indonesia",
+    "buildingKnowledge": "Pengetahuan bangunan · Bahasa Indonesia",
+    "articles": [
+      {
+        "title": "Panel sandwich baja berinti rock wool: tahan api hanyalah awal",
+        "description": "Mengenal proses produksi, area penggunaan, cara memilih, dan detail pemasangan yang menentukan kinerja panel di lapangan.",
+        "date": "15.08.2026",
+        "readTime": "9 menit baca",
+        "image": "/products/sandwich-05.jpg",
+        "href": "/artikel/panel-sandwich-rock-wool"
+      },
+      {
+        "title": "Panel sandwich EPS tahan api: ringan, cepat dan ekonomis—tetapi istilahnya harus dipahami",
+        "description": "Memahami produksi mekanis, keunggulan insulasi, area penggunaan, serta batas keselamatan kebakaran saat membeli dan memasang panel.",
+        "date": "15.08.2026",
+        "readTime": "10 menit baca",
+        "image": "/products/sandwich-02.jpg",
+        "href": "/artikel/panel-sandwich-eps-tahan-api"
+      },
+      {
+        "title": "Rumah prefab bukan sekadar cepat dibangun: struktur, aplikasi, dan panduan memilih",
+        "description": "Memahami struktur, insulasi, drainase, penggunaan, dan detail yang menentukan kenyamanan serta umur pakai bangunan prefab.",
+        "date": "16.08.2026",
+        "readTime": "12 menit baca",
+        "image": "/products/prefab-01.jpg",
+        "href": "/artikel/rumah-prefab"
+      }
+    ]
+  },
+  "videos": {
+    "tag": "Video pengetahuan cleanroom",
+    "title": "Memahami ruang bersih langsung dari lokasi proyek",
+    "subtitle": "Pelajari struktur dasar, pengendalian lingkungan, dan hal penting dalam penggunaan cleanroom melalui kondisi proyek nyata.",
+    "narration": "Narasi bahasa Mandarin",
+    "videos": [
+      {
+        "title": "Panduan cleanroom 01: struktur dasar dan penggunaan",
+        "description": "Pengenalan langsung mengenai sistem selubung cleanroom dan detail dasar yang perlu diperhatikan saat digunakan sehari-hari.",
+        "duration": "01:40",
+        "poster": "/videos/cleanroom-knowledge-01.jpg",
+        "src": "/videos/cleanroom-knowledge-01.mp4"
+      },
+      {
+        "title": "Panduan cleanroom 02: kontrol lingkungan dan detail rekayasa",
+        "description": "Tur di ruang bersih yang telah selesai untuk memahami hubungan antara tata letak, aliran udara, dan pengelolaan lingkungan.",
+        "duration": "03:35",
+        "poster": "/videos/cleanroom-knowledge-02.jpg",
+        "src": "/videos/cleanroom-knowledge-02.mp4"
+      }
+    ]
+  },
+  "social": {
+    "tag": "Ikuti kami",
+    "title": "Temukan kabar terbaru dari KWD",
+    "subtitle": "Lihat pengenalan produk, kisah proyek, dan aktivitas terbaru dari pabrik kami.",
+    "platforms": [
+      {
+        "name": "TikTok",
+        "handle": "@kwd official",
+        "href": "https://www.tiktok.com/@kwdofficialstore"
+      },
+      {
+        "name": "Instagram",
+        "handle": "@kwd official",
+        "href": "https://www.instagram.com/kwdpurifiedofficial/?hl=en"
+      },
+      {
+        "name": "Facebook",
+        "handle": "@kwd official",
+        "href": "https://www.facebook.com/share/18tMJbwp1F/"
+      },
+      {
+        "name": "Threads",
+        "handle": "@kwd official",
+        "href": "https://www.facebook.com/share/18tMJbwp1F/"
+      },
+      {
+        "name": "YouTube",
+        "handle": "@kwd official",
+        "href": "https://www.facebook.com/share/18tMJbwp1F/"
+      }
+    ]
+  },
+  "contact": {
+    "tag": "Kontak",
+    "title": "Mari wujudkan rancangan Anda",
+    "subtitle": "Hubungi kami untuk pengadaan produk, kerja sama rekayasa, atau kebutuhan proyek khusus.",
+    "addressLabel": "Alamat perusahaan",
+    "address": "Jln Industri Raya III, Blok AH No. 7, Pasir Jaya, Jatake, Tangerang, Indonesia",
+    "phoneLabel": "Telepon / WhatsApp",
+    "phone": "+62 821 1456 2299",
+    "emailLabel": "Email",
+    "email": "kwdpurified@gmail.com",
+    "whatsappCta": "Chat via WhatsApp",
+    "mapCta": "Lihat di peta"
+  },
+  "footer": {
+    "tagline": "Solusi selubung bangunan & rekayasa berkinerja tinggi",
+    "copyright": "© {year} PT KWD. Hak cipta dilindungi."
+  },
+  "gallery": {
+    "close": "Tutup",
+    "of": "dari"
+  },
+  "contact_page": {
+    "title": "Hubungi Kami",
+    "subtitle": "Kami siap membantu kebutuhan proyek Anda.",
+    "form_name": "Nama",
+    "form_email": "Email",
+    "form_phone": "Nomor Telepon",
+    "form_subject": "Subjek",
+    "form_message": "Pesan",
+    "form_submit": "Kirim Pesan",
+    "form_success": "Pesan Anda berhasil dikirim. Kami akan segera menghubungi Anda.",
+    "form_error": "Gagal mengirim pesan. Silakan coba lagi.",
+    "address_label": "Alamat",
+    "phone_label": "Telepon",
+    "email_label": "Email",
+    "hours_label": "Jam Operasional"
+  },
+  "about_page": {
+    "title": "Tentang Kami",
+    "subtitle": "Mengenal lebih dekat PT. KWD Purified Colour Board."
+  },
+  "products_page": {
+    "title": "Produk Kami",
+    "subtitle": "Katalog lengkap produk panel dan solusi konstruksi.",
+    "view_detail": "Lihat Detail",
+    "empty": "Belum ada produk tersedia."
+  },
+  "portfolio_page": {
+    "title": "Portofolio",
+    "subtitle": "Proyek-proyek yang telah kami kerjakan.",
+    "filter_all": "Semua",
+    "empty": "Belum ada portofolio tersedia."
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "title": "PT KWD PURIFIED COLOR BOARD | 三明治夹芯板与洁净室 印度尼西亚",
+    "description": "印度尼西亚唐格朗的三明治夹芯板、防火EPS板、预制建筑、钢结构及洁净室承包商制造商。"
+  },
+  "nav": {
+    "about": "关于",
+    "products": "产品",
+    "strength": "优势",
+    "articles": "文章",
+    "videos": "视频",
+    "contact": "联系",
+    "portfolio": "作品集"
+  },
+  "language": {
+    "zh": "中",
+    "en": "EN",
+    "id": "ID"
+  },
+  "hero": {
+    "eyebrow": "唐格朗 · 印度尼西亚",
+    "title": [
+      "构建可靠空间",
+      "赋能工业未来。"
+    ],
+    "intro": "高性能三明治夹芯板、钢结构与洁净室工程——从优质材料到值得信赖的项目交付。",
+    "ctaPrimary": "查看解决方案",
+    "ctaSecondary": "联系我们",
+    "metric1Value": "25,000",
+    "metric1Unit": "平方米",
+    "metric1Label": "主厂区面积",
+    "metric2Value": "80",
+    "metric2Unit": "百万人民币",
+    "metric2Label": "年均销售额",
+    "metric3Value": "06",
+    "metric3Unit": "+",
+    "metric3Label": "产品与服务",
+    "scrollCue": "探索更多"
+  },
+  "about": {
+    "tag": "关于KWD",
+    "title": "扎根印度尼西亚，依托中国制造 expertise",
+    "copy": "PT KWD PURIFIED COLOR BOARD 成立于2019年，位于印度尼西亚唐格朗，是苏州洛河集团的子公司。我们将成熟的制造管理经验与工程技术相结合，并提供本地化服务，为东南亚地区提供高效、可靠、可持续的建筑围护解决方案。",
+    "point1": "苏州洛河集团子公司",
+    "point2": "唐格朗本地生产与服务",
+    "point3": "2019年成立，拥有专业技术团队"
+  },
+  "products": {
+    "tag": "产品与服务",
+    "title": "材料、建筑与工程的全方位能力",
+    "subtitle": "从标准板材到定制项目，每一项需求都以稳定的品质和高效的交付来满足。",
+    "viewPhotos": "查看产品照片",
+    "detailLink": "产品详情",
+    "products": [
+      {
+        "number": "01",
+        "name": "防火EPS板",
+        "description": "轻质隔热，具备防火性能，适用于工厂、冷藏室和仓库。",
+        "images": [
+          "/products/eps-01.jpg",
+          "/products/eps-02.jpg",
+          "/products/eps-03.jpg",
+          "/products/eps-04.jpg",
+          "/products/eps-05.jpg",
+          "/products/eps-06.jpg"
+        ],
+        "detailHref": "/eps-sandwich-panel"
+      },
+      {
+        "number": "02",
+        "name": "彩钢三明治夹芯板",
+        "description": "多种芯材、厚度和表面选择，用于可靠的墙体和屋面系统。",
+        "images": [
+          "/products/sandwich-01.jpg",
+          "/products/sandwich-02.jpg",
+          "/products/sandwich-03.jpg",
+          "/products/sandwich-04.jpg",
+          "/products/sandwich-05.jpg",
+          "/products/sandwich-06.jpg"
+        ],
+        "detailHref": "/sandwich-panel"
+      },
+      {
+        "number": "03",
+        "name": "单层彩钢板",
+        "description": "坚固、耐候、安装快捷，适用于屋顶、墙面及项目需求。",
+        "images": [
+          "/products/single-sheet-01.jpg"
+        ]
+      },
+      {
+        "number": "04",
+        "name": "预制与折叠房屋",
+        "description": "可快速部署的模块化空间，用于办公室、住宅和项目营地。",
+        "images": [
+          "/products/prefab-01.jpg",
+          "/products/prefab-03.jpg",
+          "/products/prefab-04.jpg",
+          "/products/prefab-05.jpg"
+        ]
+      },
+      {
+        "number": "05",
+        "name": "钢结构工程",
+        "description": "从详细设计、制造到现场安装的一体化服务。",
+        "images": [
+          "/products/steel-structure-01.jpg"
+        ]
+      },
+      {
+        "number": "06",
+        "name": "洁净室工程",
+        "description": "为食品、电子、制药等行业提供受控且持久的环境。",
+        "images": [
+          "/products/cleanroom-01.jpg",
+          "/products/cleanroom-02.jpg",
+          "/products/cleanroom-03.jpg",
+          "/products/cleanroom-04.jpg"
+        ],
+        "detailHref": "/clean-room"
+      }
+    ]
+  },
+  "strength": {
+    "tag": "我们的优势",
+    "title": "规模、体系与执行力，保障每一次交付",
+    "metric1Value": "25,000",
+    "metric1Unit": "平方米",
+    "metric1Label": "现代化主厂区面积",
+    "metric2Value": "80",
+    "metric2Unit": "百万人民币",
+    "metric2Label": "年均销售额",
+    "metric3Value": "06",
+    "metric3Unit": "+",
+    "metric3Label": "主营产品与服务",
+    "quote": "我们不仅仅是生产板材——我们让每一栋建筑都更高效、更可靠。"
+  },
+  "articles": {
+    "tag": "文章与洞察",
+    "title": "了解材料，做出更优的项目决策",
+    "subtitle": "阅读KWD关于三明治夹芯板、建筑围护结构及其实际应用的专业解读。",
+    "readArticle": "阅读文章",
+    "readTime": "{minutes}分钟阅读",
+    "articleMeta": "材料知识 · 印尼语",
+    "buildingKnowledge": "建筑知识 · 印尼语",
+    "articles": [
+      {
+        "title": "岩棉芯彩钢三明治板：防火只是起点",
+        "description": "了解生产工艺、应用领域、选材方法以及决定板材现场性能的安装细节。",
+        "date": "2026.08.15",
+        "readTime": "9分钟阅读",
+        "image": "/products/sandwich-05.jpg",
+        "href": "/artikel/panel-sandwich-rock-wool"
+      },
+      {
+        "title": "防火EPS三明治板：轻质、快速、经济——但术语必须理解",
+        "description": "了解机械化生产、隔热优势、应用领域，以及购买和安装板材时的消防安全限制。",
+        "date": "2026.08.15",
+        "readTime": "10分钟阅读",
+        "image": "/products/sandwich-02.jpg",
+        "href": "/artikel/panel-sandwich-eps-tahan-api"
+      },
+      {
+        "title": "预制房屋不仅仅是建造快：结构、应用与选购指南",
+        "description": "了解决定预制建筑舒适度和使用寿命的结构、隔热、排水、使用方式及关键细节。",
+        "date": "2026.08.16",
+        "readTime": "12分钟阅读",
+        "image": "/products/prefab-01.jpg",
+        "href": "/artikel/rumah-prefab"
+      }
+    ]
+  },
+  "videos": {
+    "tag": "洁净室知识视频",
+    "title": "从项目现场直观了解洁净室",
+    "subtitle": "通过真实项目场景，学习洁净室的基础结构、环境控制及使用要点。",
+    "narration": "中文配音",
+    "videos": [
+      {
+        "title": "洁净室指南01：基础结构与应用",
+        "description": "直接介绍洁净室围护系统以及日常使用中需要注意的基础细节。",
+        "duration": "01:40",
+        "poster": "/videos/cleanroom-knowledge-01.jpg",
+        "src": "/videos/cleanroom-knowledge-01.mp4"
+      },
+      {
+        "title": "洁净室指南02：环境控制与工程细节",
+        "description": "参观已完工的洁净室，理解布局、气流与环境管理之间的关系。",
+        "duration": "03:35",
+        "poster": "/videos/cleanroom-knowledge-02.jpg",
+        "src": "/videos/cleanroom-knowledge-02.mp4"
+      }
+    ]
+  },
+  "social": {
+    "tag": "关注我们",
+    "title": "发现KWD最新动态",
+    "subtitle": "查看产品介绍、项目故事以及工厂最新活动。",
+    "platforms": [
+      {
+        "name": "TikTok",
+        "handle": "@kwd official",
+        "href": "https://www.tiktok.com/@kwdofficialstore"
+      },
+      {
+        "name": "Instagram",
+        "handle": "@kwd official",
+        "href": "https://www.instagram.com/kwdpurifiedofficial/?hl=en"
+      },
+      {
+        "name": "Facebook",
+        "handle": "@kwd official",
+        "href": "https://www.facebook.com/share/18tMJbwp1F/"
+      },
+      {
+        "name": "Threads",
+        "handle": "@kwd official",
+        "href": "https://www.facebook.com/share/18tMJbwp1F/"
+      },
+      {
+        "name": "YouTube",
+        "handle": "@kwd official",
+        "href": "https://www.facebook.com/share/18tMJbwp1F/"
+      }
+    ]
+  },
+  "contact": {
+    "tag": "联系",
+    "title": "让我们一起实现您的设计",
+    "subtitle": "欢迎联系我们进行产品采购、工程合作或特殊项目需求。",
+    "addressLabel": "公司地址",
+    "address": "印度尼西亚唐格朗 Jln Industri Raya III, Blok AH No. 7, Pasir Jaya, Jatake",
+    "phoneLabel": "电话 / WhatsApp",
+    "phone": "+62 821 1456 2299",
+    "emailLabel": "电子邮件",
+    "email": "kwdpurified@gmail.com",
+    "whatsappCta": "WhatsApp咨询",
+    "mapCta": "查看地图"
+  },
+  "footer": {
+    "tagline": "高性能建筑围护与工程解决方案",
+    "copyright": "© {year} PT KWD. 版权所有。"
+  },
+  "gallery": {
+    "close": "关闭",
+    "of": "/"
+  },
+  "contact_page": {
+    "title": "联系我们",
+    "subtitle": "我们随时为您的项目需求提供帮助。",
+    "form_name": "姓名",
+    "form_email": "电子邮件",
+    "form_phone": "电话号码",
+    "form_subject": "主题",
+    "form_message": "留言",
+    "form_submit": "发送留言",
+    "form_success": "您的留言已发送，我们会尽快与您联系。",
+    "form_error": "发送失败，请重试。",
+    "address_label": "地址",
+    "phone_label": "电话",
+    "email_label": "电子邮件",
+    "hours_label": "营业时间"
+  },
+  "about_page": {
+    "title": "关于我们",
+    "subtitle": "深入了解 PT. KWD Purified Colour Board。"
+  },
+  "products_page": {
+    "title": "我们的产品",
+    "subtitle": "完整的面板产品和建筑解决方案目录。",
+    "view_detail": "查看详情",
+    "empty": "暂无产品。"
+  },
+  "portfolio_page": {
+    "title": "作品集",
+    "subtitle": "我们已完成的项目。",
+    "filter_all": "全部",
+    "empty": "暂无作品集。"
+  }
+}

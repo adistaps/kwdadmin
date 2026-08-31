@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "title": "PT KWD PURIFIED COLOR BOARD | Sandwich Panel & Clean Room Indonesia",
+    "description": "Manufacturer of sandwich panels, fire-resistant EPS panels, prefab buildings, steel structures, and clean room contractor in Tangerang, Indonesia."
+  },
+  "nav": {
+    "about": "About",
+    "products": "Products",
+    "strength": "Strengths",
+    "articles": "Articles",
+    "videos": "Videos",
+    "contact": "Contact",
+    "portfolio": "Portfolio"
+  },
+  "language": {
+    "zh": "中",
+    "en": "EN",
+    "id": "ID"
+  },
+  "hero": {
+    "eyebrow": "Tangerang · Indonesia",
+    "title": [
+      "Building reliable spaces",
+      "for Industry's Future."
+    ],
+    "intro": "High-performance sandwich panels, steel structures, and clean room engineering—from quality materials to trusted project delivery.",
+    "ctaPrimary": "View solutions",
+    "ctaSecondary": "Contact us",
+    "metric1Value": "25,000",
+    "metric1Unit": "m²",
+    "metric1Label": "Main factory area",
+    "metric2Value": "80",
+    "metric2Unit": "M RMB",
+    "metric2Label": "Average annual sales",
+    "metric3Value": "06",
+    "metric3Unit": "+",
+    "metric3Label": "Products & services",
+    "scrollCue": "Explore more"
+  },
+  "about": {
+    "tag": "About KWD",
+    "title": "Rooted in Indonesia, backed by Chinese manufacturing expertise",
+    "copy": "Established in 2019, PT KWD PURIFIED COLOR BOARD is located in Tangerang, Indonesia, and is a subsidiary of Suzhou Luohe Group. We combine mature manufacturing management and engineering experience with local services to deliver efficient, reliable, and sustainable building envelope solutions in Southeast Asia.",
+    "point1": "Subsidiary of Suzhou Luohe Group",
+    "point2": "Local production and services in Tangerang",
+    "point3": "Founded in 2019 with a professional technical team"
+  },
+  "products": {
+    "tag": "Products & services",
+    "title": "Full capabilities for materials, buildings, and engineering",
+    "subtitle": "From standard panels to custom projects, every need is met with consistent quality and efficient delivery.",
+    "viewPhotos": "View product photos",
+    "detailLink": "Product details",
+    "products": [
+      {
+        "number": "01",
+        "name": "Fire-resistant EPS panel",
+        "description": "Lightweight insulation with fire-resistant performance for factories, cold rooms, and warehouses.",
+        "images": [
+          "/products/eps-01.jpg",
+          "/products/eps-02.jpg",
+          "/products/eps-03.jpg",
+          "/products/eps-04.jpg",
+          "/products/eps-05.jpg",
+          "/products/eps-06.jpg"
+        ],
+        "detailHref": "/eps-sandwich-panel"
+      },
+      {
+        "number": "02",
+        "name": "Color steel sandwich panel",
+        "description": "Choice of core, thickness, and surface for reliable wall and roof systems.",
+        "images": [
+          "/products/sandwich-01.jpg",
+          "/products/sandwich-02.jpg",
+          "/products/sandwich-03.jpg",
+          "/products/sandwich-04.jpg",
+          "/products/sandwich-05.jpg",
+          "/products/sandwich-06.jpg"
+        ],
+        "detailHref": "/sandwich-panel"
+      },
+      {
+        "number": "03",
+        "name": "Single-layer steel sheet",
+        "description": "Strong, weather-resistant, and quick to install for roofs, walls, and project needs.",
+        "images": [
+          "/products/single-sheet-01.jpg"
+        ]
+      },
+      {
+        "number": "04",
+        "name": "Prefab & foldable houses",
+        "description": "Modular spaces quickly deployed for offices, residences, and project camps.",
+        "images": [
+          "/products/prefab-01.jpg",
+          "/products/prefab-03.jpg",
+          "/products/prefab-04.jpg",
+          "/products/prefab-05.jpg"
+        ]
+      },
+      {
+        "number": "05",
+        "name": "Steel structure engineering",
+        "description": "Integrated services from detailed design and fabrication to on-site installation.",
+        "images": [
+          "/products/steel-structure-01.jpg"
+        ]
+      },
+      {
+        "number": "06",
+        "name": "Clean room engineering",
+        "description": "Controlled and durable environments for food, electronics, pharmaceutical, and other industries.",
+        "images": [
+          "/products/cleanroom-01.jpg",
+          "/products/cleanroom-02.jpg",
+          "/products/cleanroom-03.jpg",
+          "/products/cleanroom-04.jpg"
+        ],
+        "detailHref": "/clean-room"
+      }
+    ]
+  },
+  "strength": {
+    "tag": "Our strengths",
+    "title": "Scale, systems, and execution for every delivery",
+    "metric1Value": "25,000",
+    "metric1Unit": "m²",
+    "metric1Label": "Modern main factory area",
+    "metric2Value": "80",
+    "metric2Unit": "M RMB",
+    "metric2Label": "Average annual sales",
+    "metric3Value": "06",
+    "metric3Unit": "+",
+    "metric3Label": "Main products & services",
+    "quote": "We don't just produce panels—we make every building more efficient and reliable."
+  },
+  "articles": {
+    "tag": "Articles & insights",
+    "title": "Understanding materials for better project decisions",
+    "subtitle": "Read KWD's practical explanations on sandwich panels, building envelopes, and their applications.",
+    "readArticle": "Read article",
+    "readTime": "{minutes} min read",
+    "articleMeta": "Material knowledge · Indonesian",
+    "buildingKnowledge": "Building knowledge · Indonesian",
+    "articles": [
+      {
+        "title": "Rock wool core steel sandwich panel: fire resistance is just the beginning",
+        "description": "Learn about production processes, application areas, selection criteria, and installation details that determine panel performance in the field.",
+        "date": "15.08.2026",
+        "readTime": "9 min read",
+        "image": "/products/sandwich-05.jpg",
+        "href": "/artikel/panel-sandwich-rock-wool"
+      },
+      {
+        "title": "Fire-resistant EPS sandwich panel: lightweight, fast, and economical—but the terms must be understood",
+        "description": "Understanding mechanical production, insulation advantages, application areas, and fire safety limits when buying and installing panels.",
+        "date": "15.08.2026",
+        "readTime": "10 min read",
+        "image": "/products/sandwich-02.jpg",
+        "href": "/artikel/panel-sandwich-eps-tahan-api"
+      },
+      {
+        "title": "Prefab houses aren't just quick to build: structure, applications, and selection guide",
+        "description": "Understanding structure, insulation, drainage, usage, and details that determine comfort and lifespan of prefab buildings.",
+        "date": "16.08.2026",
+        "readTime": "12 min read",
+        "image": "/products/prefab-01.jpg",
+        "href": "/artikel/rumah-prefab"
+      }
+    ]
+  },
+  "videos": {
+    "tag": "Cleanroom knowledge videos",
+    "title": "Understanding clean rooms directly from project sites",
+    "subtitle": "Learn basic structure, environmental control, and key points in cleanroom usage through real project conditions.",
+    "narration": "Mandarin narration",
+    "videos": [
+      {
+        "title": "Cleanroom guide 01: basic structure and usage",
+        "description": "Direct introduction to cleanroom envelope systems and basic details to note for daily use.",
+        "duration": "01:40",
+        "poster": "/videos/cleanroom-knowledge-01.jpg",
+        "src": "/videos/cleanroom-knowledge-01.mp4"
+      },
+      {
+        "title": "Cleanroom guide 02: environmental control and engineering details",
+        "description": "Tour a completed clean room to understand the relationship between layout, airflow, and environmental management.",
+        "duration": "03:35",
+        "poster": "/videos/cleanroom-knowledge-02.jpg",
+        "src": "/videos/cleanroom-knowledge-02.mp4"
+      }
+    ]
+  },
+  "social": {
+    "tag": "Follow us",
+    "title": "Discover the latest from KWD",
+    "subtitle": "See product introductions, project stories, and the latest activities from our factory.",
+    "platforms": [
+      {
+        "name": "TikTok",
+        "handle": "@kwd official",
+        "href": "https://www.tiktok.com/@kwdofficialstore"
+      },
+      {
+        "name": "Instagram",
+        "handle": "@kwd official",
+        "href": "https://www.instagram.com/kwdpurifiedofficial/?hl=en"
+      },
+      {
+        "name": "Facebook",
+        "handle": "@kwd official",
+        "href": "https://www.facebook.com/share/18tMJbwp1F/"
+      },
+      {
+        "name": "Threads",
+        "handle": "@kwd official",
+        "href": "https://www.facebook.com/share/18tMJbwp1F/"
+      },
+      {
+        "name": "YouTube",
+        "handle": "@kwd official",
+        "href": "https://www.facebook.com/share/18tMJbwp1F/"
+      }
+    ]
+  },
+  "contact": {
+    "tag": "Contact",
+    "title": "Let's realize your design",
+    "subtitle": "Contact us for product procurement, engineering partnerships, or special project needs.",
+    "addressLabel": "Company address",
+    "address": "Jln Industri Raya III, Blok AH No. 7, Pasir Jaya, Jatake, Tangerang, Indonesia",
+    "phoneLabel": "Phone / WhatsApp",
+    "phone": "+62 821 1456 2299",
+    "emailLabel": "Email",
+    "email": "kwdpurified@gmail.com",
+    "whatsappCta": "Chat via WhatsApp",
+    "mapCta": "View on map"
+  },
+  "footer": {
+    "tagline": "High-performance building envelope & engineering solutions",
+    "copyright": "© {year} PT KWD. All rights reserved."
+  },
+  "gallery": {
+    "close": "Close",
+    "of": "of"
+  },
+  "contact_page": {
+    "title": "Contact Us",
+    "subtitle": "We're ready to help with your project needs.",
+    "form_name": "Name",
+    "form_email": "Email",
+    "form_phone": "Phone Number",
+    "form_subject": "Subject",
+    "form_message": "Message",
+    "form_submit": "Send Message",
+    "form_success": "Your message has been sent. We'll get back to you soon.",
+    "form_error": "Failed to send message. Please try again.",
+    "address_label": "Address",
+    "phone_label": "Phone",
+    "email_label": "Email",
+    "hours_label": "Operating Hours"
+  },
+  "about_page": {
+    "title": "About Us",
+    "subtitle": "Get to know PT. KWD Purified Colour Board."
+  },
+  "products_page": {
+    "title": "Our Products",
+    "subtitle": "Complete catalog of panel products and construction solutions.",
+    "view_detail": "View Detail",
+    "empty": "No products available yet."
+  },
+  "portfolio_page": {
+    "title": "Portfolio",
+    "subtitle": "Projects we have completed.",
+    "filter_all": "All",
+    "empty": "No portfolio items available yet."
+  }
+}

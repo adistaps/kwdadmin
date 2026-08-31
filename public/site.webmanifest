@@ -1,0 +1,21 @@
+{
+  "name": "PT KWD PURIFIED COLOR BOARD",
+  "short_name": "PT KWD",
+  "description": "Official website of PT KWD PURIFIED COLOR BOARD",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0758bd",
+  "icons": [
+    {
+      "src": "/kwd-favicon-192.png?v=1",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/kwd-favicon-512.png?v=1",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
